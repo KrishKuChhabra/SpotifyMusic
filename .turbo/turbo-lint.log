@@ -1,0 +1,6 @@
+
+> spotify@0.1.0 lint
+> next lint
+
+- info Loaded env from C:\Users\HP\Desktop\Nextapp\PendingNextProject\spotify\.env.local
+✔ No ESLint warnings or errors
